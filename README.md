@@ -1,7 +1,7 @@
 
 ## Pre-MCP
 
-### ✔ NEW Modern MCP : https://github.com/ahmed605/Modern-MCP ✔
+### ✔ NEW Modern MCD : https://github.com/hypercubemc-github/Modern-Minecraft-Decompiler ✔
 
 #### Pre-MCP is a beta MCP for minecraft for making modded clients for minecraft and researching it's code.
 
